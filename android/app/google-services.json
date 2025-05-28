@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "6609925902",
+    "project_id": "wellbeingjournalaverybit",
+    "storage_bucket": "wellbeingjournalaverybit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6609925902:android:1d4bb81e236a7ec15b095f",
+        "android_client_info": {
+          "package_name": "com.averybit.wellbeingjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6609925902-1eg2vroucu0iek9dobstjma5tkchqvn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.averybit.wellbeingjournal",
+            "certificate_hash": "c7ae2c705626ba774acc108129c532ed61f47cfb"
+          }
+        },
+        {
+          "client_id": "6609925902-knuoin4kjejtvilf4j9nsd37jtjqsou5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.averybit.wellbeingjournal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "6609925902-mi5bfqt64b6gdr9ppc77i8c124pq3fue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.averybit.wellbeingjournal",
+            "certificate_hash": "7227c96bdeeddd0ef061297bcc615ce1df336a5a"
+          }
+        },
+        {
+          "client_id": "6609925902-s7h6444t9596kbdj6f5f2evvqc81leid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3H8Z2iCCwJu0sXuVzMSxuQnXhGZ0AxrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6609925902-c1aqsdngktuvhi13r9gaaq2adjvpj2mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6609925902-u83chmnsiqa9gdi0cp3k4ob944ske0kk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.averybit.wellbeingjournal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
