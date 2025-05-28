@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wellie</string>
+    <string name="facebook_app_id">1248646860601277</string>
+    <string name="fb_login_protocol_scheme">fb1248646860601277</string>
+    <string name="facebook_client_token">2a479e018048789f10ac85c9cb7a1939</string>
+</resources>

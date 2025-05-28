@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>6609925902-u83chmnsiqa9gdi0cp3k4ob944ske0kk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.6609925902-u83chmnsiqa9gdi0cp3k4ob944ske0kk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>6609925902-glrmvg6dvcq3ij8re96q0b88bfbu6cbd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnv9T0nIbYgSb_7yC_9ZORMvlG1p_3PRE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>6609925902</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.averybit.wellbeingjournal</string>
+	<key>PROJECT_ID</key>
+	<string>wellbeingjournalaverybit</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wellbeingjournalaverybit.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:6609925902:ios:c279fe202f4d42a05b095f</string>
+</dict>
+</plist>
